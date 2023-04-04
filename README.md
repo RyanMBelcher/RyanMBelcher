@@ -1,19 +1,12 @@
 ### Hi there 👋 I am Ryan Beclher
 
+## I am a Philly based (go birds! 🦅) web developer
 
-<!--
-**RyanMBelcher/RyanMBelcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on a run tracking app
+- 🌱 I’m currently learning React and Chakra Ui
+- 💬 Ask me about my journey to becoming a web developer
 - 📫 How to reach me: ryanmbelcher86@gmail.com
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I have participated in several long-distance foot races-- including marathons, 50km, and 50-mile races
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanmbelcher&show_icons=true&theme=synthwave))](https://github.com/ryanmbelcher/github-readme-stats)
 
