@@ -1,6 +1,6 @@
-### Hi there 👋 I am Ryan Beclher
+## Hi there 👋 I am Ryan Belcher
 
-## I am a Philly based (go birds! 🦅) web developer
+### I am a Philly based (go birds! 🦅) web developer
 
 - 🔭 I’m currently working on a run tracking app
 - 🌱 I’m currently learning React and Chakra Ui
